@@ -1,0 +1,16 @@
+{
+  "name": "message-server",
+  "version": "1.0.0",
+  "main": "api/messages.js",
+  "scripts": {
+    "start": "node api/messages.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
