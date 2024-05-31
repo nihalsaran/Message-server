@@ -1,1 +1,25 @@
-[]
+[
+    {
+        "timestamp": "2024-05-31T09:40:34.729Z"
+    },
+    {
+        "recipientId": "user1",
+        "messageContent": "Hello, this is a test message!",
+        "timestamp": "2024-05-31T09:42:10.366Z"
+    },
+    {
+        "recipientId": "Sajal Satsangi",
+        "messageContent": "Hello, this is a test message!",
+        "timestamp": "2024-05-31T10:05:20.561Z"
+    },
+    {
+        "recipientId": "Sajal Satsangii",
+        "messageContent": "Hello, this is a test message!",
+        "timestamp": "2024-05-31T10:05:53.118Z"
+    },
+    {
+        "recipientId": "Sajal Satsangii",
+        "messageContent": "Hello, this is a test message!",
+        "timestamp": "2024-05-31T10:06:05.075Z"
+    }
+]
